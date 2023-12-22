@@ -1,0 +1,2 @@
+# app-gas-wordBINGO
+ワードビンゴ
